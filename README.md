@@ -1,7 +1,7 @@
 # Superstore Sales Performance Dashboard | Power BI
 An interactive 4-page Power BI dashboard analyzing sales, profit, discount, and order patterns of a retail Superstore dataset across categories, regions, time periods, and variance against targets.
 
- Overview
+ 
 This dashboard breaks down retail performance from four different angles — product category, geography, time, and variance vs. goals — to help identify what's driving (and dragging) sales and profitability.
 
 **Key Metrics Tracked:** Total Sales, Total Profit, Total Quantity, Total Discount, Total Units
