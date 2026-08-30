@@ -40,7 +40,7 @@ This dashboard breaks down retail performance from four different angles — pro
 
 Tools Used
 - **Excel** - data cleaning
-- - **Power BI Desktop** – data modeling, DAX measures, and visualization, Drill-through, slicers, and goal-tracking KPI visuals
+- **Power BI Desktop** – data modeling, DAX measures, and visualization, Drill-through, slicers, and goal-tracking KPI visuals
 
  Dataset
 Based on the standard **Superstore Sales dataset** (Category, Sub-Category, Region, Order Priority, Order Date, Sales, Profit, Discount, Quantity fields).
